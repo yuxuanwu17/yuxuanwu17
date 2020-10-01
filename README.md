@@ -1,9 +1,5 @@
 ### Hi there 👋 Welcom to my GitHub pages
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
 <!--
 **yuxuanwu17/yuxuanwu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,3 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yuxuan.wu17@gmail.com
 - ⚡ Fun fact: I love and learn deep learning simple because I would like to achieve higher score in flappy bird 😂
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
