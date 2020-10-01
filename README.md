@@ -1,5 +1,8 @@
 ### Hi there 👋 Welcom to my GitHub pages
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 <!--
 **yuxuanwu17/yuxuanwu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
