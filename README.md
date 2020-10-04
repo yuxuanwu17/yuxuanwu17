@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yuxuan.wu17@gmail.com
 - ⚡ Fun fact: I love and learn deep learning simple because I would like to achieve higher score in flappy bird 😂
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuxuanwu17&hide=HTML&layout=compact)
+
+### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
 Python       2 hrs 13 mins   ████████████████████▒░░░░   81.28 % 
