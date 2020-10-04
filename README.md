@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yuxuan.wu17@gmail.com
 - ⚡ Fun fact: I love and learn deep learning simple because I would like to achieve higher score in flappy bird 😂
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/R.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Java.svg" />
+
+
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuxuanwu17&hide=HTML&layout=compact)
