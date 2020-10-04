@@ -11,9 +11,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yuxuan.wu17@gmail.com
 - ⚡ Fun fact: I love and learn deep learning simple because I would like to achieve higher score in flappy bird 😂
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/R.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Java.svg" />
+---
 
+<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Rstudio" width="26px" src="https://d7umqicpi7263.cloudfront.net/img/product/11313f01-c0bb-4fac-b873-d8d7699e264f/6474b9cc-5e0c-4b78-849e-75e9dc8fd6c5.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+
+
+<br />
 
 ---
 
