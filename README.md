@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-R          15 hrs 15 mins  ███████████████████████▒░   92.71 % 
-XML        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Other      26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-HTML       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+R        8 hrs 27 mins   ███████████████▓░░░░░░░░░   62.62 % 
+Python   3 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.17 % 
+Other    47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+XML      26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+HTML     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 <!--END_SECTION:waka-->
