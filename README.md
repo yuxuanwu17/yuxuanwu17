@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-Python     9 hrs 37 mins   ████████████▓░░░░░░░░░░░░   50.80 % 
-Other      5 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.48 % 
-R          3 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Python     13 hrs 29 mins  ████████████████████▒░░░░   81.86 % 
+Other      1 hr 54 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+R          1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 <!--END_SECTION:waka-->
