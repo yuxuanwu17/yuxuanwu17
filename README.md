@@ -44,7 +44,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-### My explorative data analysis project on kaggle
+### My data analysis project on kaggle
 
 Avocado analysis from 2015-2020 (R)
 
