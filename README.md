@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🎃 I'm currently working in Ubuntun, trying to implement big data tools Hadoop to solve real-word problems 
 - 👯 I’m looking to collaborate on the Kaggle competition and LeetCode
 - 📫 How to reach me: yuxuan.wu17@gmail.com
-- ⚡ Fun fact: I love and learn deep learning simple because I would like to achieve higher score in flappy bird 😂
 
 ---
 #### Language and Tools:
@@ -44,3 +43,14 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
 JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
+
+### My explorative data analysis project on kaggle
+
+Avocado analysis from 2015-2020 (R)
+
+https://www.kaggle.com/yuxuanwu17/eda-of-avocado-price-from-2015-to-2020
+
+SVM-based machine learning model on heart failure diseases & EDA on features (Python )
+
+https://www.kaggle.com/yuxuanwu17/eda-of-heart-failure-and-optimization-of-svm
+
