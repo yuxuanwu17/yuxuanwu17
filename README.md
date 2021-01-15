@@ -61,7 +61,7 @@ Avocado analysis from 2015-2020 (R)
 
 https://www.kaggle.com/yuxuanwu17/eda-of-avocado-price-from-2015-to-2020
 
-SVM-based machine learning model on heart failure diseases & EDA on features (Python )
+SVM-based machine learning model on heart failure diseases & EDA on features (Python)
 
 https://www.kaggle.com/yuxuanwu17/eda-of-heart-failure-and-optimization-of-svm
 
