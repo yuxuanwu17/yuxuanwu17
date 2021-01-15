@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yuxuan.wu17@gmail.com
 
 ---
-#### Language and Tools:
+### Language and Tools:
 
 <img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+### My publication
+
+- Zhen, D., Wu, Y., Zhang, Y., Chen, K., Song, B., Xu, H., Tang, Y., Wei, Z., Meng, J. (2020). m6A Reader: Epitranscriptome Target Prediction and Functional Characterization of N6-Methyladenosine (m6A) Readers, Frontiers in Cell and Developmental Biology, DOI: 10.3389/fcell.2020.00741 (IF:5.201)
+- Wu, Y., Zhang, Y., Wang, R., Meng, J., Chen K., Song, Y., Huang, D. (Accept). Prediction of m6A Reader substrate sites using deep convolutional and recurrent neural network, Conference: BIBE 2021- The Fifth International Conference on Biological Information and Biomedical Engineering, July 20-22, 2021 at Hangzhou, China; https://github.com/yuxuanwu17/m6A_reader
+- Zhang, Y., Wu, Y., Zhen, D., Chen, K., Meng, J. (Accept). Meta-analysis for knockdown of METTL3 or METTL14 affecting N6-methyladenosine methylation level, Conference: BIBE 2021- The Fifth International Conference on Biological Information and Biomedical Engineering, July 20-22, 2021 at Hangzhou, China; https://github.com/yuxuanwu17/meta_analysis
 
 <br />
 
