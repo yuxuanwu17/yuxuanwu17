@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🎃 I'm currently working in Ubuntun, trying to implement big data tools Hadoop to solve real-word problems 
 - 👯 I’m looking to collaborate on the Kaggle competition and LeetCode
 - 📫 How to reach me: yuxuan.wu17@gmail.com
+- 😳 For more details, you could turn to my personal blog: https://yuxuanwu17.github.io/
 
 ---
 ### Language and Tools:
