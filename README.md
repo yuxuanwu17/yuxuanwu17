@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-Python     59 mins         ██████████████████████▓░░   90.16 % 
-Bash       6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Python     11 mins         █████████████████████████   99.84 % 
 ```
 <!--END_SECTION:waka-->
 
