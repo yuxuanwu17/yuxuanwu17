@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-TeX        56 mins         ████████████████▓░░░░░░░░   66.16 % 
-Python     21 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.84 % 
-Bash       6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+TeX        56 mins         █████████████████▓░░░░░░░   70.01 % 
+Python     17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.52 % 
+Bash       6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 ```
 <!--END_SECTION:waka-->
 
