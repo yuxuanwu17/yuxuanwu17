@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ---
 ### Language and Tools:
-<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png" /> 
+<img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting/typora/20210319134145.jpeg" /> 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/python.45u9n6xopra0.png" /> 
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/r.2rpte965qn00.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/H8fc926edeb8f41e1a12d1b02a355cbd1j.6pl8qtiekjc0.jpg" />
