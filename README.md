@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-C#       1 hr            ███████████░░░░░░░░░░░░░░   43.40 % 
-TeX      56 mins         ██████████░░░░░░░░░░░░░░░   40.23 % 
-Python   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Bash     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+C#       1 hr            ██████████▓░░░░░░░░░░░░░░   43.31 % 
+TeX      56 mins         ██████████░░░░░░░░░░░░░░░   40.14 % 
+Python   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Bash     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 ```
 <!--END_SECTION:waka-->
 
