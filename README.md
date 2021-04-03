@@ -4,7 +4,7 @@
 **yuxuanwu17/yuxuanwu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 😄 I'm currently a Year4 student majored in Bioinformatics, applying for either Biostatistic or Data Science master degree 
+- 😄 I'm currently a Year4 student majored in Bioinformatics, successfully applied for the computational biology master degree in CMU
 - 🔭 I’m currently working on my final year project: multi-instance weakly-supervised learning 
 - 🌱 I’m currently learning deep learning and machine learning's mathematical mechanisms
 - 🎃 I'm currently working in Ubuntun, trying to implement big data tools Hadoop to solve real-word problems 
