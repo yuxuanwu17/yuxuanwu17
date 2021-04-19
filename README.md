@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-HTML   10 hrs 16 mins  ████████████▓░░░░░░░░░░░░   50.88 % 
-R      7 hrs 17 mins   █████████░░░░░░░░░░░░░░░░   36.14 % 
-XML    1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-C#     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Java   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+HTML   9 hrs 1 min     █████████████░░░░░░░░░░░░   51.90 % 
+R      5 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.37 % 
+XML    1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Java   47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+C#     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 <!--END_SECTION:waka-->
 
