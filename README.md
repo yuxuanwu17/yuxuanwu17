@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-R            4 hrs 1 min     ██████████████████████▓░░   90.73 % 
+R            4 hrs 1 min     ██████████████████████▓░░   90.71 % 
 Java         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
