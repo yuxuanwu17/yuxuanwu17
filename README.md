@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS    2 mins          ████████████████████████▓   98.10 % 
 ```
 <!--END_SECTION:waka-->
 
