@@ -4,11 +4,10 @@
 **yuxuanwu17/yuxuanwu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 😄 I'm currently a Year4 student majored in Bioinformatics, successfully applied for the computational biology master degree in CMU
-- 🔭 I’m currently working on my final year project: multi-instance weakly-supervised learning 
-- 🌱 I’m currently learning deep learning and machine learning's mathematical mechanisms
-- 🎃 I'm currently working in Ubuntun, trying to implement big data tools Hadoop to solve real-word problems 
-- 👯 I’m looking to collaborate on the Kaggle competition and LeetCode
+- 😄 I'm currently a master of computational biology (MSCB) in CMU
+- 🔭 I’m currently working on LeetCode to enhance my algorithms ability
+- 🌱 I’m currently looking for internship and hoping to be a full stack developer / data analyst
+- 👯 I’m looking to collaborate on the Kaggle competition 
 - 📫 How to reach me: yuxuan.wu17@gmail.com
 - 😳 For more details, you could turn to my personal blog: https://yuxuanwu17.github.io/
 
@@ -17,13 +16,15 @@ Here are some ideas to get you started:
 <img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting/typora/20210319134145.jpeg" /> 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/python.45u9n6xopra0.png" /> 
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/r.2rpte965qn00.png" />
-<img align="left" alt="MATLAB" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/H8fc926edeb8f41e1a12d1b02a355cbd1j.6pl8qtiekjc0.jpg" />
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/imgstore/typora/20210618212347.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/java.2408csyj837k.png" />
+<img align="left" alt="HTML+CSS+JS" width="26px" src="https://cdn.jsdelivr.net/gh/imgstore/typora/20210618212832.png" />
+<img align="left" alt="MATLAB" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/H8fc926edeb8f41e1a12d1b02a355cbd1j.6pl8qtiekjc0.jpg" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/sql.4gl18ptl8lc0.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/git.9kfy3htl8js.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/github.1ei5j8acpwlc.png" />
 <img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/terminal.7r5t3jimm20.png" />
-
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/imgstore/typora/20210618213401.png" />
 
 <br />
 
