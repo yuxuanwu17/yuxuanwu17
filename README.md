@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-Java   10 hrs 2 mins   ████████████████████████░   95.44 % 
-YAML   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Java   9 hrs 26 mins   ███████████████████████▓░   95.17 % 
+YAML   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 ```
 <!--END_SECTION:waka-->
 
