@@ -41,10 +41,9 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-Java         12 hrs 27 mins  ███████████████████████▒░   93.05 % 
-XML          42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Java         12 hrs 27 mins  ███████████████████████▒░   93.41 % 
+XML          42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
