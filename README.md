@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-Java     11 hrs 42 mins  ██████████████████████▓░░   91.28 % 
-Bash     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-R        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Python   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-YAML     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Java     9 hrs 51 mins   ██████████████████████▒░░   89.80 % 
+Bash     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+R        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+YAML     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 <!--END_SECTION:waka-->
 
