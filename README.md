@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-Java       4 hrs 49 mins   ███████████████████████▒░   93.93 % 
-Python     18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Java       3 hrs 13 mins   █████████████████████████   99.88 % 
 ```
 <!--END_SECTION:waka-->
 
