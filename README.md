@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-Java       2 hrs 2 mins    █████████████████████████   99.81 % 
+Java       42 mins         █████████████████████████   99.47 % 
 ```
 <!--END_SECTION:waka-->
 
