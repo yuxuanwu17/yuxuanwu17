@@ -41,10 +41,11 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-Go           6 hrs 38 mins   ██████████████████▓░░░░░░   74.12 % 
-Java         1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Python       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Go           6 hrs 10 mins   ██████████████▓░░░░░░░░░░   58.75 % 
+Python       1 hr 36 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+R            1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Java         49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Git Config   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 <!--END_SECTION:waka-->
 
