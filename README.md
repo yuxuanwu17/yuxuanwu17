@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 ```text
-Python       39 mins         ████████████████████████░   96.02 % 
-Git Config   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Python       2 hrs 30 mins   ████████████████████████▓   98.92 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
 
