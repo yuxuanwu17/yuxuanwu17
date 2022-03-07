@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python     25 hrs 58 mins  ███████████████████████▒░   93.49 %
-R          1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Other      10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Python     22 hrs 19 mins  ████████████████████████▒   96.67 %
+R          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
