@@ -5,9 +5,8 @@
 Here are some ideas to get you started:
 -->
 - 😄 I'm currently a master of computational biology (MSCB) in CMU
-- 🔭 I’m currently working on LeetCode to enhance my algorithms ability
-- 🌱 I’m currently looking for internship and hoping to be a full stack developer / data analyst
-- 👯 I’m looking to collaborate on the Kaggle competition 
+- 🌱 I’m currently looking for a full time job in SDE / DS field
+- 👯 Here is my survival proof in 11785 https://www.kaggle.com/yuxuanwucmu
 - 📫 How to reach me: yuxuan.wu17@gmail.com
 - 😳 For more details, you could turn to my personal blog: https://yuxuanwu17.github.io/
 
@@ -60,7 +59,7 @@ No activity tracked
 
 ---
 
-### My data analysis project on kaggle
+### My data analysis project on kaggle (self interests)
 
 Avocado analysis from 2015-2020 (R)
 
