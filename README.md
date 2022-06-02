@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python     3 hrs 22 mins   ███████████████████████▓░   94.01 %
-textmate   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Python     1 hr 15 mins    █████████████████████▒░░░   85.34 %
+textmate   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+JSON       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
