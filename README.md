@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python             5 hrs 32 mins   ███████████████████████░░   92.04 %
-textmate           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Shell Script       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-requirements.txt   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-JSON               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Text               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Python             5 hrs 18 mins   ███████████████████████▓░   95.25 %
+Shell Script       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+requirements.txt   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Text               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+HTML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
