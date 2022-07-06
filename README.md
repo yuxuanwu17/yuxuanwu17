@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 ### My [Kaggle Profile](https://www.kaggle.com/yuxuanwucmu) and [Souce Code](https://github.com/yuxuanwu17/Kaggle_Competition)
 
 
-- Frame-Level Speech Recognition (HW1P2)
-- Face Recognition (HW2P2)
-- Face Verification (HW2P2)
-- Automatic Speech Recognition (ASR) (HW3P2)
-- Attention-Based Speech Recognition (HW4P2)
+- Frame-Level Speech Recognition (Top 10%)
+- Face Recognition (Top 10%)
+- Face Verification (Top 25%)
+- Automatic Speech Recognition (ASR) (Top 10%)
+- Attention-Based Speech Recognition (Top 10%)
 
 ---
 
