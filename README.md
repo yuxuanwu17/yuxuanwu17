@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ---
-### My [Kaggle Profile](https://www.kaggle.com/yuxuanwucmu) and Competition Joined 
+### My [Kaggle Profile](https://www.kaggle.com/yuxuanwucmu) and [Souce Code](https://github.com/yuxuanwu17/Kaggle_Competition)
 
 
 - Frame-Level Speech Recognition (HW1P2)
