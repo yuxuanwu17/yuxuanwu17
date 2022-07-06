@@ -29,6 +29,16 @@ Here are some ideas to get you started:
 
 
 ---
+### My [Kaggle Profile](https://www.kaggle.com/yuxuanwucmu) and Competition Joined 
+
+
+- Frame-Level Speech Recognition (HW1P2)
+- Face Recognition (HW2P2)
+- Face Verification (HW2P2)
+- Automatic Speech Recognition (ASR) (HW3P2)
+- Attention-Based Speech Recognition (HW4P2)
+
+---
 
 <br />
 
