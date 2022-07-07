@@ -51,9 +51,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python             3 hrs 11 mins   █████████████████████████   99.43 %
-requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python   2 hrs 40 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
