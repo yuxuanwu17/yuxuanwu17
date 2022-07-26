@@ -51,12 +51,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python             8 hrs 57 mins   ████████████████████░░░░░   79.44 %
-JSON               1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-Bash               25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-Text               15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-requirements.txt   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Shell Script       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Python             7 hrs 33 mins   ███████████████████▒░░░░░   77.02 %
+JSON               1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+Bash               25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Text               15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+requirements.txt   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Shell Script       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
