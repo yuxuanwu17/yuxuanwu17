@@ -51,11 +51,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python             4 hrs 2 mins    ███████████████████████░░   92.47 %
-Markdown           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-requirements.txt   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Text               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-IDEA_MODULE        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python        3 hrs 58 mins   █████████████████████████   99.96 %
+IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
