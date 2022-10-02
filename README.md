@@ -51,9 +51,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python        4 hrs 1 min     ███████████████████████▓░   94.68 %
-Java          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   4 hrs 24 mins   ██████████████████████░░░   88.13 %
+Java     35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
 ```
 
 <!--END_SECTION:waka-->
