@@ -51,12 +51,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python         1 hr 46 mins    ████████████████░░░░░░░░░   64.54 %
-Java           51 mins         ████████░░░░░░░░░░░░░░░░░   31.40 %
-CSV/TSV        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python         2 hrs 13 mins   █████████████████▒░░░░░░░   69.53 %
+Java           51 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
+CSV/TSV        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
