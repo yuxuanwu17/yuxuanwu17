@@ -51,11 +51,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python         1 hr 59 mins    ████████████████████████░   95.75 %
-CSV/TSV        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python    2 hrs 58 mins   ████████████████████████▒   97.15 %
+CSV/TSV   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Text      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
