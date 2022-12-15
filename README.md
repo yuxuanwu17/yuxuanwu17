@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-HTML     15 mins         █████████████▒░░░░░░░░░░░   52.75 %
-Python   13 mins         ███████████▓░░░░░░░░░░░░░   47.25 %
+Python   26 mins         ████████████████████████▓   98.19 %
+HTML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
