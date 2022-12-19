@@ -5,8 +5,10 @@
 Here are some ideas to get you started:
 -->
 - 😄 I'm currently a master of computational biology (MSCB) in CMU
-- 🌱 I’m currently looking for a full time job in SDE / DS field
-- 👯 Here is my survival proof in 11785 https://www.kaggle.com/yuxuanwucmu
+- 🌱 I’m currently looking for a full time job in SDE / DS / Full stackf / MLE / Bioinformatics ield
+- 👯 Here is my survival proof in Leetcode, Kaggle
+  -  https://leetcode.com/salted_fish17/
+  -  https://www.kaggle.com/yuxuanwucmu
 - 📫 How to reach me: yuxuan.wu17@gmail.com
 - 😳 For more details, you could turn to my personal blog: https://yuxuanwu17.github.io/
 
