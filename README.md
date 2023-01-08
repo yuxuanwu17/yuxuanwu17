@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java     52 mins         █████████████▒░░░░░░░░░░░   53.76 %
-Python   45 mins         ███████████▓░░░░░░░░░░░░░   46.24 %
+Java     52 mins         ██████████████████▒░░░░░░   72.83 %
+Python   19 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
 ```
 
 <!--END_SECTION:waka-->
