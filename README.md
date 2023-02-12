@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 😄 I'm currently a master of computational biology (MSCB) in CMU
-- 🌱 I’m currently looking for a full time job in SDE / DS / Full stackf / MLE / Bioinformatics ield
+- 🌱 I’m currently looking for a full time job in SDE / DS / Full stack / MLE / Bioinformatics ield
 - 👯 Here is my survival proof in Leetcode, Kaggle
   -  https://leetcode.com/salted_fish17/
   -  https://www.kaggle.com/yuxuanwucmu
