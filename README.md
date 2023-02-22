@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/imgstore/typora/20210618212347.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/java.2408csyj837k.png" />
 <img align="left" alt="HTML+CSS+JS" width="26px" src="https://cdn.jsdelivr.net/gh/imgstore/typora/20210618212832.png" />
-hosting@master/icons/H8fc926edeb8f41e1a12d1b02a355cbd1j.6pl8qtiekjc0.jpg" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/sql.4gl18ptl8lc0.png" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/r.2rpte965qn00.png" />
-<img align="left" alt="MATLAB" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-
+<img align="left" alt="MATLAB" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/H8fc926edeb8f41e1a12d1b02a355cbd1j.6pl8qtiekjc0.jpg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/git.9kfy3htl8js.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/github.1ei5j8acpwlc.png" />
 <img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/terminal.7r5t3jimm20.png" />
