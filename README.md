@@ -51,12 +51,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#                        8 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-JavaScript                7 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   24.59 %
-Python                    6 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
-Blazor                    2 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-HTML                      2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-CSHTML                    29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+JavaScript                8 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   31.27 %
+Python                    7 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 %
+C#                        5 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
+HTML                      2 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Markdown                  20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Blazor                    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
