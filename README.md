@@ -51,12 +51,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                8 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.20 %
-Python                    6 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
-C#                        4 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-HTML                      2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Blazor                    1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-JSON                      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+JavaScript        8 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   39.27 %
+Python            6 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   30.90 %
+HTML              2 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Blazor            1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+C#                1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+JSON              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
