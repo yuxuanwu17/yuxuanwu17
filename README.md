@@ -51,12 +51,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python           29 hrs 8 mins   ████████████████████████▓   98.38 %
-CSV/TSV          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-R                6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Markdown         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-HTML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-JavaScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python           29 hrs 50 mins  ███████████████████████▒░   93.82 %
+HTML             56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+GitIgnore file   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Text             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+CSV/TSV          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
