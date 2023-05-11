@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 ```text
 Python       27 mins         ████████████████████▒░░░░   81.15 %
-JavaScript   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+JavaScript   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 CSV/TSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
