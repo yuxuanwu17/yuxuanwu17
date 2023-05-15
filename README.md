@@ -4,8 +4,8 @@
 **yuxuanwu17/yuxuanwu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 😄 I'm currently a master of computational biology (MSCB) in CMU
-- 🌱 I’m currently looking for a full time job in SDE / DS / Full stack / MLE / Bioinformatics ield
+- 😄 I'm a graduate in master of computational biology (MSCB) in CMU 2023
+- 🌱 I’m currently a full-stack developer in Nucor 
 - 👯 Here is my survival proof in Leetcode, Kaggle
   -  https://leetcode.com/salted_fish17/
   -  https://www.kaggle.com/yuxuanwucmu
