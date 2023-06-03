@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ### My weekly contribution in coding
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   34 mins         ████████████████████▓░░░░   82.33 %
 JavaScript   7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
