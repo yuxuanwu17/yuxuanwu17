@@ -51,8 +51,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          ███████████████████████░░   91.58 %
-HTML     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
