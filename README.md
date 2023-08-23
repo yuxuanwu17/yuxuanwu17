@@ -51,11 +51,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#                10 mins         ██████████████████████▒░░   89.77 %
-GitIgnore file    1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Protocol Buffer   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Blazor            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C#               6 mins          █████████████████████▒░░░   84.95 %
+GitIgnore file   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Blazor           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
