@@ -51,9 +51,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#               6 mins          █████████████████████▒░░░   84.95 %
-GitIgnore file   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Blazor           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
