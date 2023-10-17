@@ -51,11 +51,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#               33 mins         ██████████████████░░░░░░░   71.75 %
-Ezhil            7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-XML              3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Config           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
