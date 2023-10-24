@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#       0 secs          █████████████████▒░░░░░░░   69.05 %
-CSHTML   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
-JSON     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+C#       1 min           ███████████████████▓░░░░░   78.99 %
+CSHTML   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+JSON     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
 ```
 
 <!--END_SECTION:waka-->
