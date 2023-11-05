@@ -1,16 +1,16 @@
-### Hi there 👋 Welcom to my GitHub pages
+### Hi there 👋 Welcome to my GitHub pages
 
 <!--
 **yuxuanwu17/yuxuanwu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 😄 I'm a graduate in master of computational biology (MSCB) in CMU 2023
+- 😄 I graduated with a Master of Computational Biology (MSCB) from CMU in 2023.
 - 🌱 I’m currently a full-stack developer in Nucor 
 - 👯 Here is my survival proof in Leetcode, Kaggle
   -  https://leetcode.com/salted_fish17/
   -  https://www.kaggle.com/yuxuanwucmu
-- 📫 How to reach me: yuxuan.wu17@gmail.com
-- 😳 For more details, you could turn to my personal blog: https://yuxuanwu17.github.io/
+- 📫 How to reach me: yuxuan.wu17@alumni.cmu.edu
+- 😳 For more details, you can turn to my personal blog: https://yuxuanwu17.github.io/
 
 ---
 ### Language and Tools:
@@ -69,7 +69,7 @@ No activity tracked
 
 ---
 
-### My data analysis project on kaggle (self interests)
+### My data analysis project on Kaggle (self-interests)
 
 Avocado analysis from 2015-2020 (R)
 
