@@ -51,7 +51,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#               1 hr 57 mins    ████████████████████████▒   97.28 %
+Python           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Solution File    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
