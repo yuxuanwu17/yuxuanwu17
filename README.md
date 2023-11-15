@@ -51,11 +51,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#               2 hrs 6 mins    ████████████████████████▒   97.48 %
-Python           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Solution File    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+C#   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
