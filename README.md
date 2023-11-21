@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file    12 mins         ███████████░░░░░░░░░░░░░░   44.29 %
-C#                5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
-Blazor            3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-Razor             3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Solution File     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+C#                2 hrs 27 mins   ████████████████████▓░░░░   82.00 %
+GitIgnore file    14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Razor             7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Blazor            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+XML               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
