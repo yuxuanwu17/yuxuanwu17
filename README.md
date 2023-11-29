@@ -51,11 +51,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file   10 mins         █████████████▒░░░░░░░░░░░   52.89 %
-Markdown         6 mins          ████████░░░░░░░░░░░░░░░░░   32.10 %
-Python           2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-C#               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python           2 mins          █████████████████▓░░░░░░░   70.16 %
+GitIgnore file   1 min           ███████▒░░░░░░░░░░░░░░░░░   29.70 %
+HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
