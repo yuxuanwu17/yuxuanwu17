@@ -51,9 +51,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           31 mins         ████████████████████████░   96.47 %
-GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C#               36 mins         ███████████░░░░░░░░░░░░░░   44.04 %
+Python           32 mins         █████████▓░░░░░░░░░░░░░░░   39.17 %
+XML              7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Csproj           4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
