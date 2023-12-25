@@ -51,11 +51,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#               1 hr 54 mins    ███████████████████▓░░░░░   78.03 %
-Razor            17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-Blazor           10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Csproj           3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+C#   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
