@@ -51,11 +51,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#                4 mins          █████████████▒░░░░░░░░░░░   52.88 %
-Protocol Buffer   3 mins          ██████████▓░░░░░░░░░░░░░░   42.80 %
-JSON              0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
