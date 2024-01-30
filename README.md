@@ -51,10 +51,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       0 secs          ███████████████▓░░░░░░░░░   62.05 %
-C#         0 secs          ████████▓░░░░░░░░░░░░░░░░   34.53 %
-protobuf   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
