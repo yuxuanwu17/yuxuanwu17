@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON       3 mins          █████████████▓░░░░░░░░░░░   54.73 %
+C#         2 mins          ████████▒░░░░░░░░░░░░░░░░   33.06 %
+Markdown   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
 ```
 
 <!--END_SECTION:waka-->
