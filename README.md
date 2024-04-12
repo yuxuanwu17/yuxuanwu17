@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           4 hrs 48 mins   ███████████████████░░░░░░   75.69 %
-textmate         1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
-Text             21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-XML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Python           6 hrs           ███████████████████▓░░░░░   78.69 %
+textmate         1 hr 12 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Text             21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+XML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
