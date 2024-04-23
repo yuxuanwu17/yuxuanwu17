@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python        2 hrs 55 mins   ███████████████████▓░░░░░   78.51 %
-JavaScript    29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-HTML          17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-SQL           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python           2 hrs 48 mins   ███████████████░░░░░░░░░░   60.37 %
+JavaScript       1 hr 45 mins    █████████▒░░░░░░░░░░░░░░░   37.63 %
+JSON             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+textmate         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+CSV/TSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
