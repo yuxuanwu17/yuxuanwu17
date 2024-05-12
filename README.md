@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Razor            1 hr 18 mins    ████████░░░░░░░░░░░░░░░░░   32.29 %
-Blazor           1 hr 9 mins     ███████▒░░░░░░░░░░░░░░░░░   28.83 %
-JavaScript       58 mins         ██████░░░░░░░░░░░░░░░░░░░   24.28 %
-GitIgnore file   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Python           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Razor            1 hr 18 mins    ████████▒░░░░░░░░░░░░░░░░   33.38 %
+Blazor           1 hr 9 mins     ███████▒░░░░░░░░░░░░░░░░░   29.81 %
+JavaScript       58 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+GitIgnore file   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+C#               8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->
