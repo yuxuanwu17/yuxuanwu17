@@ -51,11 +51,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Blazor           21 mins         ███████████▒░░░░░░░░░░░░░   45.14 %
-Razor            11 mins         ██████░░░░░░░░░░░░░░░░░░░   24.37 %
-Python           10 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
-C#               1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Python   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
