@@ -51,10 +51,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go         1 hr 50 mins    ███████████████████████░░   91.90 %
-Python     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python   26 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
