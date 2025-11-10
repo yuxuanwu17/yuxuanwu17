@@ -51,7 +51,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#                                 3 hrs 22 mins   ██████████████▒░░░░░░░░░░   57.62 %
+Python                             1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+Razor                              54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+JSON                               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Other                              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
