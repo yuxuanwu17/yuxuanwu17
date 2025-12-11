@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   48 mins         ████████████████████▒░░░░   80.80 %
-Other    8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-Bash     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python   14 mins         ████████████████░░░░░░░░░   64.35 %
+Other    8 mins          ████████▓░░░░░░░░░░░░░░░░   34.79 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
