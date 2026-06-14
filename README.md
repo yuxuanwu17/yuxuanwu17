@@ -51,11 +51,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   19 mins               ████████▒░░░░░░░░░░░░░░░░   33.67 %
-Python     18 mins               ████████▒░░░░░░░░░░░░░░░░   32.70 %
-HTML       16 mins               ███████░░░░░░░░░░░░░░░░░░   28.03 %
-CSS        3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+HTML       48 mins               ████████████░░░░░░░░░░░░░   47.91 %
+Markdown   29 mins               ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+Python     23 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
 ```
 
 <!--END_SECTION:waka-->
