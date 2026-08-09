@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     3 hrs 4 mins          ████████████░░░░░░░░░░░░░   47.41 %
-Markdown   1 hr 55 mins          ███████▒░░░░░░░░░░░░░░░░░   29.65 %
-Other      1 hr 18 mins          █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-HTML       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Bash       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Python     3 hrs 16 mins         ██████████▒░░░░░░░░░░░░░░   41.37 %
+Other      2 hrs 27 mins         ███████▓░░░░░░░░░░░░░░░░░   31.08 %
+Markdown   2 hrs                 ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
+HTML       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Bash       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
