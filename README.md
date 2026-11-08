@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/python.45u9n6xopra0.png" /> 
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/imgstore/typora/20210618212347.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/java.2408csyj837k.png" />
-<img align="left" alt="HTML+CSS+JS" width="26px" src="https://cdn.jsdelivr.net/gh/imgstore/typora/20210618212832.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/sql.4gl18ptl8lc0.png" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/r.2rpte965qn00.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://cdn.jsdelivr.net/gh/yuxuanwu17/image-hosting@master/icons/H8fc926edeb8f41e1a12d1b02a355cbd1j.6pl8qtiekjc0.jpg" />
@@ -38,23 +37,7 @@ Here are some ideas to get you started:
 - Automatic Speech Recognition (ASR) (Top 10%)
 - Attention-Based Speech Recognition (Top 10%)
 
----
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuxuanwu17&hide=HTML,CSS,postscript,R,jupyter%20notebook,Matlab,bash,shell&layout=compact)
 
 
----
 
-### My weekly contribution in coding
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
 
